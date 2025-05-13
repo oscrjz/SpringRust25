@@ -1,0 +1,4 @@
+[
+  { "url": "https://google.com", "status": 200, "time_ms": 152, "timestamp": SystemTime { tv_sec: 1747173640, tv_nsec: 90665482 } },
+  { "url": "https://example.com", "status": 200, "time_ms": 79, "timestamp": SystemTime { tv_sec: 1747173640, tv_nsec: 242983234 } }
+]
